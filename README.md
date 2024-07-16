@@ -1,6 +1,6 @@
 # Sentiment Analysis with BERT and RoBERTa
 
-This project compares the performance of BERT and RoBERTa models on sentiment analysis using Natural Language Processing (NLP). The analysis involves loading and preprocessing data, training both models, and evaluating their performance.
+This project compares the performance of VANDER and RoBERTa models on sentiment analysis using Natural Language Processing (NLP). The analysis involves loading and preprocessing data, training both models, and evaluating their performance.
 
 ## Table of Contents
 
